@@ -8,8 +8,8 @@ This was Data Structures taught in C++
 
 ### CMSC 202
 
-This was Introduction to Object-Oriented Programming and Design
+This was Introduction to Object-Oriented Programming and Design also taught in C++
 
-### CSMSC 471
+### CMSC 471
 
-This was Artificial Intelligence
+This was Artificial Intelligence taught in python
